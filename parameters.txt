@@ -1,0 +1,16 @@
+alpha = 0
+Ra = 5000
+Pr = 10
+
+Lx = 5
+nx = 100
+ny = 20
+nz = 20
+ns = 20
+
+tau = 0.0002
+
+time_limit = 10000
+time_minimal = 1
+
+continue = 0
